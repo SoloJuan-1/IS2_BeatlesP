@@ -1,0 +1,4 @@
+Backend/node_modules
+Backend/.env
+testing
+Backend/db/Local instance MySQL80SJ.session.sql
